@@ -8,3 +8,6 @@ hello
 hello
 hello
 hello
+hello
+hello
+new color
