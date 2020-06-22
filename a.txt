@@ -2,7 +2,3 @@ ffff
 aaaaaa
 sssss
 vvvvv
-ffff
-aaaaaa
-sssss
-ccccc
